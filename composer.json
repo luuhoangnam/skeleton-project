@@ -1,0 +1,24 @@
+{
+    "name": "luuhoangnam/skeleton",
+    "description": "Just a personal skeleton project.",
+    "minimum-stability": "stable",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Luu Hoang Nam",
+            "email": "hoangnam0705@icloud.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Speedify\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "~4.2",
+        "mockery/mockery": "~0.9"
+    }
+}
