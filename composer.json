@@ -11,7 +11,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "Speedify\\": "src/"
+            "Speedify\\": "src/Speedify"
         }
     },
     "require": {
